@@ -1,0 +1,17 @@
+.header{
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.btn{
+    background-color: goldenrod;
+    width: fit-content;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
